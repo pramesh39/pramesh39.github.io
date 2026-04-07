@@ -1,10 +1,12 @@
 ## **About Me**
 
-I’m a fourth-year ML PhD student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**, focusing on understanding and editing the behavior of deep neural networks. My primary interests span representation learning, model merging, and efficient deep learning. Recently, my work has centered on fusing and editing fine-tuned models within multi-task learning, federated learning, and continual learning contexts.
+I’m a fourth-year ML PhD student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**. I’m	interested	in	modular	learning	as	a	paradigm	for	training	and	composing	task-specific	modules	into	unified	multi-task systems.
+My	research	focuses	on	understanding	and	controlling	the	behavior	of	deep	neural	networks,	with	a	recent	emphasis	on	training,
+aligning	and	merging	fine-tuned	models	to	improve	multi-task	performance	and	generalization
 
-I earned my master's in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran)**, where I worked on machine translation on clinical sensor data as a research assistant. 
+I earned my master's in ECE in 2022 also at Georgia Tech, advised by **[Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran)**, where I worked on machine translation on clinical sensor data as a research assistant. 
 
-I'm honored to be a recipient of the Herbert P. Haley Fellowship at Georgia Tech for 2023-2024.
+I'm honored to be a recipient of the Herbert P. Haley Fellowship, Georgia Tech 2023-2024.
 
 ### **Research Interests**
 - Representation Learning
