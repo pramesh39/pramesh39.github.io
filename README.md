@@ -10,13 +10,14 @@ I'm honored to be a recipient of the Herbert P. Haley Fellowship, Georgia Tech 2
 
 ### **Research Interests**
 - Representation Learning
+- Modular Learning
 - Model Merging
 - Parameter-Efficient Fine-Tuning
 
 <p align="center">  
   <a href="mailto:pratikramesh@gatech.edu">email</a> |  
   <a href="https://scholar.google.com/citations?user=zJyuMYgAAAAJ&hl=en">google scholar</a> |  
-  <a href="https://github.com/pratikramesh1">github</a> |  
+  <a href="https://github.com/pramesh39">github</a> |  
   <a href="https://www.linkedin.com/in/pratik-ramesh-234471114/">linkedin</a> |  
   <a href="assets/Pratik_Ramesh_CV.pdf">cv</a> </p>
 
