@@ -21,7 +21,20 @@ I'm honored to be a recipient of the Herbert P. Haley Fellowship, Georgia Tech 2
   <a href="assets/Pratik_Ramesh_CV.pdf">cv</a> </p>
 
 ---
+## **Pre-Print**
 
+### **Resolving Interference (RI): Disentangling Models for Improved Model Merging**
+**Pratik Ramesh**, George Stoica, Arun Iyer, Leshem Choshen, Judy Hoffman    
+
+
+<div class="actions button-container">
+    <div class="button-group">
+        <button onclick="window.location.href='https://arxiv.org/pdf/2603.13467'" class="button">Paper</button>
+        <button onclick="window.location.href='https://github.com/pramesh39/resolving_interference'" class="button">Code</button>
+    </div>
+</div>
+
+![KnOTS](/assets/Resolving_Interference.png)
 ## **Publications**
 
 ### **Model Merging with SVD to tie the KnOTS**
